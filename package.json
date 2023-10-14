@@ -1,0 +1,25 @@
+{
+  "name": "javascript-problems",
+  "version": "1.0.0",
+  "description": "Javascript Problems",
+  "main": "01-",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahmud886/JavaScript-Problems.git"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Iqbal Mahmud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahmud886/JavaScript-Problems/issues"
+  },
+  "homepage": "https://github.com/mahmud886/JavaScript-Problems#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
