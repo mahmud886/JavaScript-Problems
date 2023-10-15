@@ -1,4 +1,4 @@
-const myString = '31 JavaScript Program to Find the Factorial of a Number.js';
+const myString = '41 avaScript Program to Find Sum of Natural Numbers Using Recursion.js';
 let lowString = myString.toLowerCase();
 console.log(lowString.replace(/ /g, '-'));
 
