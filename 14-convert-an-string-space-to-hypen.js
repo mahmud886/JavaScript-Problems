@@ -1,4 +1,4 @@
-const myString = '54 JavaScript Program to Remove Duplicates From Array Using indexOf() and push().js';
+const myString = '55 JavaScript Program to Remove Duplicates From Array Using set().js';
 let lowString = myString.toLowerCase();
 console.log(lowString.replace(/ /g, '-'));
 
