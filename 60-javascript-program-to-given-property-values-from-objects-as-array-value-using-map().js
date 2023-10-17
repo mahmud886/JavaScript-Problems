@@ -28,4 +28,5 @@ const objArray = [
 const result = extractValue(objArray, 'a');
 console.log(result);
 
+
 // [ 1, 4, 8 ]
