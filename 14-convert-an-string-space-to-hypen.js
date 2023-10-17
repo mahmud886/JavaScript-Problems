@@ -1,4 +1,4 @@
-const myString = '58 JavaScript Program to Create Two Dimensional Array Using for Loop.js';
+const myString = '60 JavaScript Program to Given Property Values from Objects as Array Value Using map().js';
 let lowString = myString.toLowerCase();
 console.log(lowString.replace(/ /g, '-'));
 
