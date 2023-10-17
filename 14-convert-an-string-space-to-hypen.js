@@ -1,4 +1,4 @@
-const myString = '53 JavaScript Program to Insert Item in an Array Add Item to Array Using for Loop.js';
+const myString = '54 JavaScript Program to Remove Duplicates From Array Using indexOf() and push().js';
 let lowString = myString.toLowerCase();
 console.log(lowString.replace(/ /g, '-'));
 
