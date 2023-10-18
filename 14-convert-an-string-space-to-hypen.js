@@ -1,4 +1,4 @@
-const myString = '71 JavaScript Program to Illustrate Different Set Subset Operation.js';
+const myString = '74 JavaScript Program to Check Occurrence of a Character Using for Loop.js';
 let lowString = myString.toLowerCase();
 console.log(lowString.replace(/ /g, '-'));
 
