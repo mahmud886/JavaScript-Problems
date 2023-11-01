@@ -1,4 +1,4 @@
-const myString = '75 JavaScript Program to Generate a Range of Numbers and Characters.js';
+const myString = '76 JavaScript Program to Convert the First Letter of a String into UpperCase.js';
 let lowString = myString.toLowerCase();
 console.log(lowString.replace(/ /g, '-'));
 
