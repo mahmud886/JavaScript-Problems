@@ -1,4 +1,4 @@
-const myString = '77 JavaScript Program to Count the Number of Vowels in a String using for loop.js';
+const myString = '78 JavaScript Program to Generate Random String using loop.js';
 let lowString = myString.toLowerCase();
 console.log(lowString.replace(/ /g, '-'));
 
