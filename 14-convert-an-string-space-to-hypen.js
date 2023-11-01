@@ -1,4 +1,4 @@
-const myString = '76 JavaScript Program to Convert the First Letter of a String into UpperCase.js';
+const myString = '77 JavaScript Program to Count the Number of Vowels in a String using for loop.js';
 let lowString = myString.toLowerCase();
 console.log(lowString.replace(/ /g, '-'));
 
