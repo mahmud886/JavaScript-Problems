@@ -1,4 +1,4 @@
-const myString = '81 JavaScript Program to Encode a String to Base64 Using Base64 Object.js';
+const myString = '82 JavaScript Program to Get File Extension Using split() and pop().js';
 let lowString = myString.toLowerCase();
 console.log(lowString.replace(/ /g, '-'));
 
