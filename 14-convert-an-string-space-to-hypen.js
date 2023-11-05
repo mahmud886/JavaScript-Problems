@@ -1,4 +1,4 @@
-const myString = '102 Leetcode 1920 Build Array from Permutation.js';
+const myString = '103 Leetcode 2620 Counter.js';
 let lowString = myString.toLowerCase();
 console.log(lowString.replace(/ /g, '-'));
 
