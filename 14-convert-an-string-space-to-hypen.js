@@ -1,4 +1,4 @@
-const myString = '103 Leetcode 2620 Counter.js';
+const myString = '104 Leetcode 2621 Sleep.js';
 let lowString = myString.toLowerCase();
 console.log(lowString.replace(/ /g, '-'));
 
