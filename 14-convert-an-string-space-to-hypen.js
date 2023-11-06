@@ -1,4 +1,4 @@
-const myString = '109 Leetcode 80 Remove Duplicates from Sorted Array II.js';
+const myString = '110 Leetcode 20 Valid Parentheses.js';
 let lowString = myString.toLowerCase();
 console.log(lowString.replace(/ /g, '-'));
 
