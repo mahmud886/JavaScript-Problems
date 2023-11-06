@@ -1,4 +1,4 @@
-const myString = '107 Leetcode 13 Roman to Integer.js';
+const myString = '107 Leetcode 26 Remove Duplicates from Sorted Array.js';
 let lowString = myString.toLowerCase();
 console.log(lowString.replace(/ /g, '-'));
 
