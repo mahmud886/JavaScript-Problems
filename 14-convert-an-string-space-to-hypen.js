@@ -1,4 +1,4 @@
-const myString = '104 Leetcode 2621 Sleep.js';
+const myString = '105 Leetcode 14 Longest Common Prefix.js';
 let lowString = myString.toLowerCase();
 console.log(lowString.replace(/ /g, '-'));
 
